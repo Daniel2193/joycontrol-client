@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "joycontrol-client", "joycontrol-client.csproj", "{CAF8E66A-DA8E-4D23-92AE-30BCB51AC276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF8E66A-DA8E-4D23-92AE-30BCB51AC276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF8E66A-DA8E-4D23-92AE-30BCB51AC276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF8E66A-DA8E-4D23-92AE-30BCB51AC276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF8E66A-DA8E-4D23-92AE-30BCB51AC276}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62FE9B09-41D9-4F57-9115-3BDBD0C5C5E7}
+	EndGlobalSection
+EndGlobal
